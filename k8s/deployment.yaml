@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nextjs-cicd-example
-          image: kiss0104040/nextjs-cicd-example:c2fd08d53c209b8e9205fd11df38186be09f4fe9
+          image: kiss0104040/nextjs-cicd-example:96ccefcf01ecb95ed5704e31a197481d24da710e
           ports:
             - containerPort: 3000
           env:
